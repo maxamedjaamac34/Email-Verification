@@ -1,0 +1,6 @@
+fastapi[all]
+motor
+python-dotenv
+sendgrid
+python-jose[cryptography]
+passlib[bcrypt]
