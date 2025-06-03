@@ -81,7 +81,7 @@ Start the FastAPI server:
 ```bash
 uvicorn app.main:app --reload
 ```
-
+You will see something like this
 - FastAPI docs: http://127.0.0.1:8000/docs  
 - API root: http://127.0.0.1:8000  
 
